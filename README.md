@@ -20,7 +20,7 @@ This project is a Python script that integrates Twitch and Twitter APIs to autom
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/gnorgol/TweetStreamer
+    git clone https://github.com/gnorgol/TweetStreamer.git
     cd TweetStreamer
     ```
 
